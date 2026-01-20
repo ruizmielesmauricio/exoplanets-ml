@@ -1,3 +1,9 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
 google-api-python-client
 google-auth
 google-auth-httplib2
