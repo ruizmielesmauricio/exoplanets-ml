@@ -1,8 +1,12 @@
 pandas
 numpy
-scikit-learn
 matplotlib
 seaborn
+scipy
+scikit-learn
+imbalanced-learn
+xgboost
+fastparquet
 
 google-api-python-client
 google-auth
