@@ -7,6 +7,7 @@ scikit-learn
 imbalanced-learn
 xgboost
 fastparquet
+pyarrow
 
 google-api-python-client
 google-auth
