@@ -9,7 +9,7 @@ The goal is to evaluate and compare different modeling approaches while followin
 
 ⸻
 
-Project Overview
+### Project Overview
 
 The pipeline performs the following steps:
 	1.	Securely downloads large astronomical datasets
@@ -23,7 +23,7 @@ All steps are automated and reproducible via GitHub Actions.
 
 ⸻
 
-Models Implemented
+### Models Implemented
 
 The following models are trained and evaluated:
 	•	K-Nearest Neighbors (KNN)
